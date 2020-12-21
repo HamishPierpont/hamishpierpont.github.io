@@ -21,5 +21,14 @@
 Technologies  Programming Languages: C++, Python, [Java|Type]Script, Java, LaTeX Frameworks + Libraries: express.js, mongoose, a little bit of React Databases: MongoDB, SQLite Operating Systems: MacOS, Windows 10, Fedora 32  </description>
     </item>
     
+    <item>
+      <title>Init</title>
+      <link>https://hamishpierpont.github.io/posts/init/</link>
+      <pubDate>Mon, 21 Dec 2020 15:08:42 -0500</pubDate>
+      
+      <guid>https://hamishpierpont.github.io/posts/init/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>
