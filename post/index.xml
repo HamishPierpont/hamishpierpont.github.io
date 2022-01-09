@@ -5,11 +5,11 @@
     <link>/post/</link>
     <description>Recent content in Posts on Hamish Pierpont</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Fri, 08 Jan 2021 15:34:00 -0500</lastBuildDate><atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 08 Jan 2022 15:34:00 -0500</lastBuildDate><atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>MATLAB is better than I thought</title>
       <link>/matlab-is-better-than-i-thought/</link>
-      <pubDate>Fri, 08 Jan 2021 15:34:00 -0500</pubDate>
+      <pubDate>Sat, 08 Jan 2022 15:34:00 -0500</pubDate>
       
       <guid>/matlab-is-better-than-i-thought/</guid>
       <description>My first college programming class at the University of Florida used MATLAB as its instructional language. This class gave science and engineering majors basic computing skills, and I absolutely loved it - writing programs felt like casting magic spells. I switched into the computer science degree program the next semester. However, I distinctly remember my frustration with MATLAB as a language. Why did I need to define functions in a separate file?</description>
