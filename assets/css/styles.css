@@ -1,0 +1,14 @@
+.current {
+  color: green;
+}
+
+body {
+  font-family: Helvetica, sans-serif;
+  max-width: 800px;
+}
+
+body .content {
+  margin-bottom: 120px;
+}
+
+/*# sourceMappingURL=styles.css.map */

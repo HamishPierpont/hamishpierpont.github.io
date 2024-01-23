@@ -1,0 +1,1 @@
+{"version":3,"sourceRoot":"","sources":["../../_sass/main.scss"],"names":[],"mappings":"AAAA;EACI;;;AAEJ;EACI;EACA;;;AAEJ;EACI","sourcesContent":[".current {\r\n    color: green;\r\n}\r\nbody {\r\n    font-family: Helvetica, sans-serif;\r\n    max-width: 800px;\r\n}\r\nbody .content {\r\n    margin-bottom: 120px;\r\n}"],"file":"styles.css"}
